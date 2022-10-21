@@ -12,7 +12,7 @@ MetImage is a python based approach to convert LC–MS-based untargeted metabolo
 - [Workflow](#workflow)
 - [Install](#install)
 - [Usage](#usage)
-	- [Quick Start](#Quick Start)
+    - [Quick Start](#Quick Start)
     - [Manual](#Manual)
 - [Maintainers](#maintainers)
 - [Citation](#Citation)
