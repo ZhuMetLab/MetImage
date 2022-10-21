@@ -12,14 +12,15 @@ MetImage is a python based approach to convert LC–MS-based untargeted metabolo
 - [Workflow](#workflow)
 - [Install](#install)
 - [Usage](#usage)
-    - [Quick Start](#Quick Start)
+	- [Quick Start](#Quick Start)
     - [Manual](#Manual)
 - [Maintainers](#maintainers)
 - [Citation](#Citation)
 - [License](#license)
 
+
 # Workflow
-<div align=center><img src="workflow.png"></div>
+<div align=center><img src="Workflow.png"></div>
 
 # Install
 You can install `MetImage` from [Github](https://github.com/).
