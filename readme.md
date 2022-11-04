@@ -22,7 +22,7 @@ MetImage is a python based approach to convert LC–MS-based untargeted metabolo
 <div align=center><img src="Workflow.png"></div>
 
 # Install
-You can install `MetImage` from [Github](https://github.com/waterom/metimage).
+You can install `MetImage` from [Github](https://github.com/ZhuMetLab/metimage).
 
 ```sh
 $ git clone https://github.com/waterom/metimage.git
