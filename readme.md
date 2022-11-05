@@ -31,9 +31,9 @@ $ git clone https://github.com/ZhuMetLab/metimage.git
 # Usage
 
 ### Quick Start
-MetImage provided a trained model to distinguish pre-screening positive subjects (PRCS) from healthy controls (HC), 
+MetImage provided a trained model to distinguish screening positive subjects (SP) from screening negative subjects (SN), 
 according to diagnosis of endoscopy with iodine in a esophageal squamous cell carcinoma (ESCC) early screening cohort.
-The demo dataset contains raw LC-MS data (.mzXML) from 10 PRCS and 10 HC.
+The demo dataset contains raw LC-MS data (.mzXML) from 10 SP and 10 SN.
 
 To use demo ESCC disease diagnosis model in MetImage, please use following codes:
 
