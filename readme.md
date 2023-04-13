@@ -41,7 +41,7 @@ For detailed usage, please refer to [manual](manual.ipynb) of MetImage.
 # Citation
 This free open-source software implements academic research by the authors and co-workers. If you use it, please support the project by citing the appropriate journal articles.
 
-Hongmiao Wang, Yandong Yin, and Zheng-Jiang Zhu*, Encoding LC−MS-based Untargeted Metabolomics Data into Images towards AI-based Clinical Diagnosis, Submitted, 2022.
+Hongmiao Wang, Yandong Yin, and Zheng-Jiang Zhu*, Encoding LC−MS-based Untargeted Metabolomics Data into Images toward AI-Based Clinical Diagnosis, Analytical Chemistry, 2023.
 
 # License
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a> 
